@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bambruysk.  Aleksandr Folomkin
 - 👀 I’m interested in FPGA design, Golang, Python and more.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on interesting project for
+- 🌱 I’m currently learning Rust, compilers
+- 💞️ I’m looking to collaborate on interesting project for EduTech, FinTech, HighLoad
 - 📫 How to reach me 
 Telegram @aleksandr_folomkin
 
